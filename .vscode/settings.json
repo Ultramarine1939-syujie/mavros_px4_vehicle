@@ -5,6 +5,7 @@
     ],
     "python.analysis.extraPaths": [
         "/home/ubuntu/catkin_ws/devel/lib/python3/dist-packages",
-        "/opt/ros/noetic/lib/python3/dist-packages"
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "./src/offboard_control/src"
     ]
 }
