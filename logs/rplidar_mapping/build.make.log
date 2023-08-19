@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target hello_world[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/hello_world.dir/src/hello_world.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/ubuntu/offboard_control/devel/.private/rplidar_mapping/lib/rplidar_mapping/hello_world[0m
+[100%] Built target hello_world

@@ -1,0 +1,2 @@
+offboard_control:rplidar_mapping:rplidar_ros
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/offboard_control/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/offboard_control/install -G Unix Makefiles

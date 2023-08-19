@@ -1,0 +1,4 @@
+Symlinking /home/ubuntu/offboard_control/devel/lib/python3/dist-packages/offboard_control/__init__.py
+Symlinking /home/ubuntu/offboard_control/devel/lib/pkgconfig/offboard_control.pc
+Symlinking /home/ubuntu/offboard_control/devel/share/offboard_control/cmake/offboard_controlConfig-version.cmake
+Symlinking /home/ubuntu/offboard_control/devel/share/offboard_control/cmake/offboard_controlConfig.cmake

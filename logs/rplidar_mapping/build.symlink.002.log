@@ -1,0 +1,10 @@
+Symlinking /home/ubuntu/offboard_control/devel/lib/rplidar_mapping/hello_world
+Symlinking /home/ubuntu/offboard_control/devel/lib/pkgconfig/rplidar_mapping.pc
+Symlinking /home/ubuntu/offboard_control/devel/share/rplidar_mapping/cmake/rplidar_mappingConfig.cmake
+Symlinking /home/ubuntu/offboard_control/devel/share/rplidar_mapping/cmake/rplidar_mappingConfig-version.cmake
+Cleaning: (/home/ubuntu/offboard_control/devel/.private/rplidar_mapping/lib/rplidar_mapping/helloworld, /home/ubuntu/offboard_control/devel/lib/rplidar_mapping/helloworld)
+Cleaning: (/home/ubuntu/offboard_control/devel/.private/rplidar_mapping/lib/rplidar_mapping/rplidar_mapping, /home/ubuntu/offboard_control/devel/lib/rplidar_mapping/rplidar_mapping)
+Unlinking: /home/ubuntu/offboard_control/devel/lib/rplidar_mapping/helloworld
+Already unlinked: {}
+Unlinking: /home/ubuntu/offboard_control/devel/lib/rplidar_mapping/rplidar_mapping
+Already unlinked: {}

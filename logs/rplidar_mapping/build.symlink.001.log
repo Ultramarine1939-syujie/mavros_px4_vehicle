@@ -1,0 +1,5 @@
+Symlinking /home/ubuntu/offboard_control/devel/lib/rplidar_mapping/helloworld
+Linked: (/home/ubuntu/offboard_control/devel/.private/rplidar_mapping/lib/rplidar_mapping/rplidar_mapping, /home/ubuntu/offboard_control/devel/lib/rplidar_mapping/rplidar_mapping)
+Linked: (/home/ubuntu/offboard_control/devel/.private/rplidar_mapping/lib/pkgconfig/rplidar_mapping.pc, /home/ubuntu/offboard_control/devel/lib/pkgconfig/rplidar_mapping.pc)
+Linked: (/home/ubuntu/offboard_control/devel/.private/rplidar_mapping/share/rplidar_mapping/cmake/rplidar_mappingConfig.cmake, /home/ubuntu/offboard_control/devel/share/rplidar_mapping/cmake/rplidar_mappingConfig.cmake)
+Linked: (/home/ubuntu/offboard_control/devel/.private/rplidar_mapping/share/rplidar_mapping/cmake/rplidar_mappingConfig-version.cmake, /home/ubuntu/offboard_control/devel/share/rplidar_mapping/cmake/rplidar_mappingConfig-version.cmake)

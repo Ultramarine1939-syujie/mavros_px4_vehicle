@@ -1,0 +1,4 @@
+/home/ubuntu/offboard_control/src/rplidar_ros/sdk/src/arch/linux/net_serial.cpp: In member function ‘virtual void rp::arch::net::raw_serial::cancelOperation()’:
+/home/ubuntu/offboard_control/src/rplidar_ros/sdk/src/arch/linux/net_serial.cpp:428:12: warning: ignoring return value of ‘ssize_t write(int, const void*, size_t)’, declared with attribute warn_unused_result [-Wunused-result]
+  428 |     ::write(_selfpipe[1], "x", 1);
+      |     ~~~~~~~^~~~~~~~~~~~~~~~~~~~~~

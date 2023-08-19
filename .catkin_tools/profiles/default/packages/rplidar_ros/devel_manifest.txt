@@ -1,4 +1,4 @@
-rplidar_control/src/rplidar_ros
+rplidar_ros
 /home/ubuntu/offboard_control/devel/.private/rplidar_ros/cmake.lock /home/ubuntu/offboard_control/devel/./cmake.lock
 /home/ubuntu/offboard_control/devel/.private/rplidar_ros/lib/pkgconfig/rplidar_ros.pc /home/ubuntu/offboard_control/devel/lib/pkgconfig/rplidar_ros.pc
 /home/ubuntu/offboard_control/devel/.private/rplidar_ros/lib/rplidar_ros/rplidarNodeClient /home/ubuntu/offboard_control/devel/lib/rplidar_ros/rplidarNodeClient

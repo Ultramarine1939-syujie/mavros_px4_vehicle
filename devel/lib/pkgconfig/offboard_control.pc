@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/offboard_control/devel
+
+Name: offboard_control
+Description: Description of offboard_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

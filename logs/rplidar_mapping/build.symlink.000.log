@@ -1,0 +1,4 @@
+Symlinking /home/ubuntu/offboard_control/devel/lib/rplidar_mapping/rplidar_mapping
+Symlinking /home/ubuntu/offboard_control/devel/lib/pkgconfig/rplidar_mapping.pc
+Symlinking /home/ubuntu/offboard_control/devel/share/rplidar_mapping/cmake/rplidar_mappingConfig.cmake
+Symlinking /home/ubuntu/offboard_control/devel/share/rplidar_mapping/cmake/rplidar_mappingConfig-version.cmake

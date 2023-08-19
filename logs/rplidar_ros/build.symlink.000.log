@@ -1,0 +1,5 @@
+Symlinking /home/ubuntu/offboard_control/devel/lib/pkgconfig/rplidar_ros.pc
+Symlinking /home/ubuntu/offboard_control/devel/lib/rplidar_ros/rplidarNodeClient
+Symlinking /home/ubuntu/offboard_control/devel/lib/rplidar_ros/rplidarNode
+Symlinking /home/ubuntu/offboard_control/devel/share/rplidar_ros/cmake/rplidar_rosConfig-version.cmake
+Symlinking /home/ubuntu/offboard_control/devel/share/rplidar_ros/cmake/rplidar_rosConfig.cmake

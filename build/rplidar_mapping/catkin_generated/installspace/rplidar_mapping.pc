@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/offboard_control/install
+
+Name: rplidar_mapping
+Description: Description of rplidar_mapping
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

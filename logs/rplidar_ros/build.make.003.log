@@ -1,0 +1,22 @@
+[35m[1mScanning dependencies of target rplidarNodeClient[0m
+[35m[1mScanning dependencies of target rplidarNode[0m
+[  7%] [32mBuilding CXX object CMakeFiles/rplidarNodeClient.dir/src/client.cpp.o[0m
+[ 28%] [32mBuilding CXX object CMakeFiles/rplidarNode.dir/src/node.cpp.o[0m
+[ 28%] [32mBuilding CXX object CMakeFiles/rplidarNode.dir/sdk/src/arch/linux/net_serial.cpp.o[0m
+[ 28%] [32mBuilding CXX object CMakeFiles/rplidarNode.dir/sdk/src/arch/linux/net_socket.cpp.o[0m
+[ 42%] [32mBuilding CXX object CMakeFiles/rplidarNode.dir/sdk/src/sl_crc.cpp.o[0m
+[ 42%] [32mBuilding CXX object CMakeFiles/rplidarNode.dir/sdk/src/sl_serial_channel.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/rplidarNode.dir/sdk/src/arch/linux/timer.cpp.o[0m
+[ 57%] [32mBuilding CXX object CMakeFiles/rplidarNode.dir/sdk/src/rplidar_driver.cpp.o[0m
+[ 64%] [32mBuilding CXX object CMakeFiles/rplidarNode.dir/sdk/src/sl_lidar_driver.cpp.o[0m
+[ 71%] [32mBuilding CXX object CMakeFiles/rplidarNode.dir/sdk/src/sl_udp_channel.cpp.o[0m
+[ 78%] [32mBuilding CXX object CMakeFiles/rplidarNode.dir/sdk/src/hal/thread.cpp.o[0m
+[ 85%] [32mBuilding CXX object CMakeFiles/rplidarNode.dir/sdk/src/sl_tcp_channel.cpp.o[0m
+/home/ubuntu/offboard_control/src/rplidar_ros/sdk/src/arch/linux/net_serial.cpp: In member function ‘virtual void rp::arch::net::raw_serial::cancelOperation()’:
+/home/ubuntu/offboard_control/src/rplidar_ros/sdk/src/arch/linux/net_serial.cpp:428:12: warning: ignoring return value of ‘ssize_t write(int, const void*, size_t)’, declared with attribute warn_unused_result [-Wunused-result]
+  428 |     ::write(_selfpipe[1], "x", 1);
+      |     ~~~~~~~^~~~~~~~~~~~~~~~~~~~~~
+[ 92%] [32m[1mLinking CXX executable /home/ubuntu/offboard_control/devel/.private/rplidar_ros/lib/rplidar_ros/rplidarNodeClient[0m
+[100%] [32m[1mLinking CXX executable /home/ubuntu/offboard_control/devel/.private/rplidar_ros/lib/rplidar_ros/rplidarNode[0m
+[100%] Built target rplidarNodeClient
+[100%] Built target rplidarNode
