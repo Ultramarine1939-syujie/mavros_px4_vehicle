@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/offboard_control/src/rplidar_control/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/offboard_control/src/rplidar_control/install -G Unix Makefiles

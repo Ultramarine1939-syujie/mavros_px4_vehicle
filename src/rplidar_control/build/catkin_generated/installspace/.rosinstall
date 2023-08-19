@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ubuntu/offboard_control/src/rplidar_control/install/setup.sh
